@@ -57,3 +57,4 @@ public class JavaTypes {
         System.out.println(isAdult);
     }
 }
+
